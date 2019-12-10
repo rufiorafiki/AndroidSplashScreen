@@ -1,0 +1,2 @@
+# AndroidSplashScreen
+Just for fun
